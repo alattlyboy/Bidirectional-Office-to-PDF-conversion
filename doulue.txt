@@ -2,3 +2,5 @@ pdf2docx
 pandas
 pdfplumber
 openpyxl
+pyinstaller  打包工具
+镜像都是 https://pypi.tuna.tsinghua.edu.cn/simple
